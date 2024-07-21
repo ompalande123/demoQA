@@ -14,7 +14,7 @@ public class TestOmkar {
 		
 		driver.get("https://demoqa.com");
 		
-		Thread.sleep(5000);
+		Thread.sleep(6000);
 		
 		driver.quit();
 		
